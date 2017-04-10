@@ -1,7 +1,7 @@
 package acquia.cdb
 
-class Workspace {
+class Workspace implements Serializable {
     void configure() {
-        
+
     }
 }
